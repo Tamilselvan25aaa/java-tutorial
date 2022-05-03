@@ -1,0 +1,17 @@
+## Operators in Java
+Operator in Java is a symbol that is used to perform operations.
+For example: +, -, *, / etc.
+
+### There are many types of operators in Java which are given below:
+- Unary Operator,
+- Arithmetic Operator,
+- Shift Operator,
+- Relational Operator,
+- Bitwise Operator,
+- Logical Operator,
+- Ternary Operator and
+- Assignment Operator.
+
+### Java Operator Precedence
+![img_1.png](img_1.png)
+
